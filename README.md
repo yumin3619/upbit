@@ -1,1 +1,1 @@
-upbit=0
+upbit=1
