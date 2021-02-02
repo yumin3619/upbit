@@ -1,1 +1,1 @@
-upbi
+upbit=1
